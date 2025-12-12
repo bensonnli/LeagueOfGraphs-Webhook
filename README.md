@@ -1,6 +1,6 @@
 # League of Legends Stats
 
-Script that checks leagueofgraphs every 5 seconds for an update on a summoner. This tracks LP and Current Rank.
+Script that checks leagueofgraphs every 5 seconds for an update on Kevster. This tracks LP and Current Rank.
 
 # Usage
 Install all dependencies `pip install requirements.txt` 
